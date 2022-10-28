@@ -3,4 +3,4 @@ project(LAB03)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LAB03 findvals.c utils.c utils.h)
+add_executable(LAB03 main.c utils.c utils.h)
