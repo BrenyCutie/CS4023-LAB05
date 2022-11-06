@@ -6,9 +6,6 @@
 #define LAB03_UTILS_H
 
 
-class utils {
-
-};
-
+int approxEqual(float, float ,float );
 
 #endif //LAB03_UTILS_H
